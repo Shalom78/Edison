@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemAssist", "SystemAssist\SystemAssist.csproj", "{5FEB14FE-00A2-4D91-8CC4-DE8FE626A72F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FEB14FE-00A2-4D91-8CC4-DE8FE626A72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FEB14FE-00A2-4D91-8CC4-DE8FE626A72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FEB14FE-00A2-4D91-8CC4-DE8FE626A72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FEB14FE-00A2-4D91-8CC4-DE8FE626A72F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63AA08DE-CF7D-45B0-A89F-B124A65CB2EC}
+	EndGlobalSection
+EndGlobal
